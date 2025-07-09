@@ -1,1 +1,1 @@
-docker pull hxsoong/kylin:v10-sp1
+hxsoong/kylin:v10-sp1
