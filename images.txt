@@ -1,1 +1,1 @@
-ultralytics/ultralytics
+docker pull hxsoong/kylin:v10-sp1
