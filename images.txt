@@ -1,1 +1,1 @@
-opstool/kylin:v10sp1-aarch64
+openkylin/openkylin:latest
